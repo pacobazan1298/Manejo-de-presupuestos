@@ -1,0 +1,63 @@
+﻿@model PaginacionRespuesta<Categoria>
+
+@{
+    ViewData["Title"] = "Categorias";
+}
+
+<h1>Categoria</h1>
+
+<h5>
+    La categoria nos permite indicar en que nos gastamos nuestro dinero, tambien,
+    de donde provienen nuestros ingresos.
+</h5>
+
+<div class="row">
+    <label>Cantidad de registros a mostrar:</label>
+    <div class="mb-3 col-auto">
+        <select asp-for="@Model.RecordsPorPagina" id="cantidadRecordsPorPagina" class="form-select">
+            <option>2</option>
+            <option>3</option>
+            <option>5</option>
+        </select>
+    </div>
+</div>
+
+<a class="btn btn-primary mb-3" asp-action="Crear">Crear nuevo</a>
+
+<partial name="_Paginacion" />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Acciones</th>
+            <th>Nombre</th>
+            <th>Tipo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var categoria in Model.Elementos)
+        {
+            <tr>
+                <td>
+                    <a class="btn btn-primary" asp-action="Editar" asp-route-id="@categoria.Id">Editar</a>
+                    <a class="btn btn-danger" asp-action="Borrar" asp-route-id="@categoria.Id">Borrar</a>
+                </td>
+                <td>
+                    @categoria.Nombre
+                </td>
+                <td>
+                    @categoria.TipoOperacionId.ToString()
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts{
+    <script>
+        $("#cantidadRecordsPorPagina").change(function () {
+            const recordsPorPagina = $(this).val();
+            location.href = `/categorias/?pagina=1&recordsPorPagina=${recordsPorPagina}`
+        });
+    </script>
+}
