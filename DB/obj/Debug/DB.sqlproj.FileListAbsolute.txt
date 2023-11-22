@@ -1,0 +1,10 @@
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\bin\Debug\DB.dacpac
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\bin\Debug\DB.dll
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\bin\Debug\DB.pdb
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\Model.xml
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\refactor.xml
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\postdeploy.sql
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\predeploy.sql
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\DB.dll
+C:\Users\pako_\source\repos\ManejoPresupuesto\DB\obj\Debug\DB.pdb
