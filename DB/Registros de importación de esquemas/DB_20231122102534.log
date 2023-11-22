@@ -1,0 +1,88 @@
+22/11/2023 04:25:34 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'DB' del equipo 'DESKTOP-AJP9A10' por el usuario 'pako_'.
+22/11/2023 04:25:34 p. m.	Se inició la importación del esquema de la base de datos.
+22/11/2023 04:25:41 p. m.	Recopilando credenciales de la base de datos
+22/11/2023 04:25:41 p. m.	Recopilando opciones de base de datos
+22/11/2023 04:25:41 p. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+22/11/2023 04:25:41 p. m.	Recopilando usuarios
+22/11/2023 04:25:41 p. m.	Recopilando roles
+22/11/2023 04:25:41 p. m.	Recopilando roles de aplicación
+22/11/2023 04:25:41 p. m.	Recopilando pertenencias a roles
+22/11/2023 04:25:41 p. m.	Recopilando grupos de archivos
+22/11/2023 04:25:41 p. m.	Recopilando catálogos de texto completo
+22/11/2023 04:25:41 p. m.	Recopilando ensamblados
+22/11/2023 04:25:41 p. m.	Recopilando certificados
+22/11/2023 04:25:41 p. m.	Recopilando claves asimétricas
+22/11/2023 04:25:41 p. m.	Recopilando claves simétricas
+22/11/2023 04:25:41 p. m.	Recopilando claves simétricas cifradas
+22/11/2023 04:25:41 p. m.	Recopilando esquemas
+22/11/2023 04:25:41 p. m.	Recopilando colecciones de esquemas XML
+22/11/2023 04:25:41 p. m.	Recopilando tipos de datos definidos por el usuario
+22/11/2023 04:25:41 p. m.	Recopilando tipos definidos por el usuario
+22/11/2023 04:25:41 p. m.	Recopilando tipos de tabla
+22/11/2023 04:25:41 p. m.	Recopilando claves únicas para tipos de tabla
+22/11/2023 04:25:41 p. m.	Recopilando claves principales para tipos de tabla
+22/11/2023 04:25:41 p. m.	Recopilando índices para tipos de tablas
+22/11/2023 04:25:41 p. m.	Recopilando restricciones CHECK para tipos de tabla
+22/11/2023 04:25:41 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+22/11/2023 04:25:41 p. m.	Recopilando funciones de partición
+22/11/2023 04:25:41 p. m.	Recopilando esquemas de partición
+22/11/2023 04:25:41 p. m.	Recopilando funciones
+22/11/2023 04:25:41 p. m.	Recopilando funciones cifradas
+22/11/2023 04:25:41 p. m.	Recopilando agregados
+22/11/2023 04:25:41 p. m.	Recopilando procedimientos
+22/11/2023 04:25:41 p. m.	Recopilando procedimientos cifrados
+22/11/2023 04:25:41 p. m.	Recopilando tablas
+22/11/2023 04:25:41 p. m.	Recopilando claves principales
+22/11/2023 04:25:41 p. m.	Recopilando restricciones UNIQUE
+22/11/2023 04:25:41 p. m.	Recopilando claves externas
+22/11/2023 04:25:41 p. m.	Recopilando restricciones DEFAULT
+22/11/2023 04:25:41 p. m.	Recopilando restricciones CHECK
+22/11/2023 04:25:41 p. m.	Recopilando vistas
+22/11/2023 04:25:41 p. m.	Recopilando vistas cifradas
+22/11/2023 04:25:41 p. m.	Recopilando índices
+22/11/2023 04:25:41 p. m.	Recopilando estadísticas
+22/11/2023 04:25:41 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+22/11/2023 04:25:41 p. m.	Recopilando listas de propiedades de búsqueda
+22/11/2023 04:25:41 p. m.	Recopilando propiedades de búsqueda
+22/11/2023 04:25:41 p. m.	Recopilando índices de texto completo
+22/11/2023 04:25:41 p. m.	Recopilando índices de almacenamiento de columnas
+22/11/2023 04:25:41 p. m.	Recopilando índices espaciales
+22/11/2023 04:25:41 p. m.	Recopilando índices XML
+22/11/2023 04:25:41 p. m.	Recopilando índices XML selectivos
+22/11/2023 04:25:41 p. m.	Recopilando desencadenadores cifrados
+22/11/2023 04:25:41 p. m.	Recopilando desencadenadores
+22/11/2023 04:25:41 p. m.	Recopilando DDL triggers cifrados y de CLR
+22/11/2023 04:25:41 p. m.	Recopilando DDL triggers
+22/11/2023 04:25:41 p. m.	Creación de la restricción perimetral en curso
+22/11/2023 04:25:41 p. m.	Recopilando sinónimos
+22/11/2023 04:25:41 p. m.	Recopilando valores predeterminados
+22/11/2023 04:25:41 p. m.	Recopilando enlaces UDDT de restricción de datos
+22/11/2023 04:25:41 p. m.	Recopilando reglas
+22/11/2023 04:25:41 p. m.	Recopilando enlaces UDDT de restricción de datos
+22/11/2023 04:25:41 p. m.	Recopilando tipos de mensaje
+22/11/2023 04:25:41 p. m.	Recopilando colas
+22/11/2023 04:25:41 p. m.	Recopilando contratos
+22/11/2023 04:25:41 p. m.	Recopilando servicios
+22/11/2023 04:25:41 p. m.	Recopilando notificaciones de eventos
+22/11/2023 04:25:41 p. m.	Recopilando enlaces de servicio remoto
+22/11/2023 04:25:41 p. m.	Recopilando prioridades de Broker
+22/11/2023 04:25:41 p. m.	Recopilando firmas
+22/11/2023 04:25:41 p. m.	Recopilando opciones de compresión
+22/11/2023 04:25:41 p. m.	Recopilando tipos de secuencia
+22/11/2023 04:25:41 p. m.	Recopilando directivas de seguridad
+22/11/2023 04:25:41 p. m.	Recopilar claves de cifrado de columna
+22/11/2023 04:25:41 p. m.	Recopilando claves maestras de columna
+22/11/2023 04:25:41 p. m.	Recopilando orígenes de datos externos
+22/11/2023 04:25:41 p. m.	Recopilando formatos de archivo externos
+22/11/2023 04:25:41 p. m.	Recopilando tablas externas
+22/11/2023 04:25:41 p. m.	Recopilando opciones de compresión de índice XML
+22/11/2023 04:25:41 p. m.	Recopilando propiedades extendidas
+22/11/2023 04:25:41 p. m.	Recopilando ensamblados
+22/11/2023 04:25:41 p. m.	Recopilando credenciales
+22/11/2023 04:25:41 p. m.	Recopilando inicios de sesión
+22/11/2023 04:25:41 p. m.	Recopilando auditorías de servidor
+22/11/2023 04:25:41 p. m.	Buscando elementos duplicados en el proyecto
+22/11/2023 04:25:41 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+22/11/2023 04:25:42 p. m.	Finalizó la importación de la base de datos.
+22/11/2023 04:25:42 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\pako_\source\repos\ManejoPresupuesto\DB\Registros de importación de esquemas\DB_20231122102534.log
+22/11/2023 04:25:42 p. m.	Haga clic en Finalizar para continuar...
