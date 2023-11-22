@@ -75,3 +75,4 @@ C:\Users\pako_\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0
 C:\Users\pako_\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\SixLabors.Fonts.dll
 C:\Users\pako_\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\pako_\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\XLParser.dll
+C:\Users\pako_\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.sourcelink.json
